@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Rassoha/Rassoha-MyLeetCode/tree/master/0326-power-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rassoha/Rassoha-MyLeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rassoha/Rassoha-MyLeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
